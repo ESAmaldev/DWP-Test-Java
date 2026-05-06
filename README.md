@@ -30,13 +30,13 @@ This service implements a ticket purchasing system that handles three types of t
 
 ## Building the Project
 
-# Clean and compile
+## Clean and compile
 mvn clean compile
 
-# Run tests
+## Run tests
 mvn test
 
-# Package the application
+## Package the application
 mvn package
 
 
